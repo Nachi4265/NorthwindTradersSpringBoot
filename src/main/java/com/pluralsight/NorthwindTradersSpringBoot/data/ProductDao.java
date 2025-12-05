@@ -1,4 +1,4 @@
-package com.pluralsight.NorthwindTradersSpringBoot;
+package com.pluralsight.NorthwindTradersSpringBoot.data;
 
 import com.pluralsight.NorthwindTradersSpringBoot.models.Product;
 

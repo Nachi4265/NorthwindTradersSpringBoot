@@ -1,4 +1,4 @@
-package com.pluralsight.NorthwindTradersSpringBoot;
+package com.pluralsight.NorthwindTradersSpringBoot.userinterface;
 import java.time.LocalDate;
 import java.util.Scanner;
 
